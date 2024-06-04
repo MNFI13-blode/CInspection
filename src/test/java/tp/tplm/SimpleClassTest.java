@@ -17,7 +17,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class SimpleClassTest {
     @Test
     public void testPenjumlahan() {
-        assertEquals(5, penjumlahan(2, 3));
+        assertEquals(9, penjumlahan(2, 3));
         assertEquals(0, penjumlahan(0, 0));
         assertEquals(-1, penjumlahan(-2, 1));
     }
