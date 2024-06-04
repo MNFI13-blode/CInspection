@@ -12,7 +12,9 @@ public class SimpleClass {;
     public static int penjumlahan(int a, int b) {
         return a + b;
     }
-
+    public static int penjumlahan(int a, int b) {
+        return a + b;
+    }
     public static int pengurangan(int a, int b) {
         return a - b;
     }
